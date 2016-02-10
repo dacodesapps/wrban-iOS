@@ -33,7 +33,7 @@
     self.myCollectionView.dataSource = self;
     
     self.searchBar.delegate = self;
-    self.searchBar.placeholder = @"Buscar";
+    self.searchBar.placeholder = @"Search";
     
     self.title = self.category;
     
